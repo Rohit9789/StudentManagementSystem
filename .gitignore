@@ -1,0 +1,5 @@
+# Compiled Java files
+*.class
+
+# Generated student report
+student_report.txt
